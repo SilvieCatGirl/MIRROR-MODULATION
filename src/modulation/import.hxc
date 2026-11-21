@@ -1,0 +1,5 @@
+package modulation;
+
+import funkin.graphics.FunkinSprite;
+import funkin.assets.Paths;
+import funkin.util.Sequence;
